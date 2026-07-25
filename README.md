@@ -71,7 +71,7 @@ Interpretable temporal deep-learning framework for longitudinal microbiome dysbi
 Novel CNN architecture for disease classification using optimized colormap representations of sparse metagenomic datasets.
 - **Tech Stack:** PyTorch, CNNs, Image Representation, Imbalanced Learning
 - 🔗 **GitHub Repository:** [github.com/00000281892/MetaResNet](https://github.com/00000281892/MetaResNet)
-- 📑 **Manuscript/Preprint:** [View Preprint / Document](https://arxiv.org/)
+- 📑 **Manuscript/Preprint:** [View Preprint / Document](https://doi.org/10.64898/2026.03.11.708118)
 
 ---
 
