@@ -109,20 +109,6 @@ Novel CNN architecture for microbiome-based disease classification using optimiz
 
 ---
 
-## 🏥 HCT Dysbiosis Prediction
-
-Interpretable AI framework for predicting complications in Hematopoietic Cell Transplantation (HCT) patients.
-
-**Technologies**
-
-- Deep Learning
-- Healthcare AI
-- Predictive Analytics
-
-🔗 Repository: INSERT_GITHUB_LINK
-
----
-
 # Technical Skills
 
 ## Artificial Intelligence
