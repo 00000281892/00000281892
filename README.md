@@ -102,7 +102,6 @@ Novel CNN architecture for microbiome-based disease classification using optimiz
 **Technologies**
 
 - CNN
-- Computer Vision
 - TensorFlow
 - Explainable AI
 
@@ -213,7 +212,6 @@ An Interpretable Dual-Strategy Deep Learning Framework for Sparse Longitudinal M
 - Publishing Remaining Research Papers
 - Learning LLMOps
 - Developing Healthcare AI Solutions
-- Building Microbiome AI Copilot
 - Exploring International Applied Scientist Opportunities
 - Bridging AI Research and Real-World Healthcare Applications
 
@@ -238,23 +236,18 @@ An Interpretable Dual-Strategy Deep Learning Framework for Sparse Longitudinal M
 # Connect With Me
 
 💼 LinkedIn
-
 https://linkedin.com/in/awaisqureshi-97150633
 
 📚 Google Scholar
-
 https://scholar.google.com/citations?user=HzfFC8kAAAAJ
 
 🆔 ORCID
-
 https://orcid.org/0000-0001-7460-3099
 
 📧 Email
-
 theawaisqureshi@gmail.com
 
 🌐 Website
-
 Coming Soon
 
 ---
