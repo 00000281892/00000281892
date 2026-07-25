@@ -47,7 +47,7 @@ Combining a strong software engineering foundation with doctoral AI research, I 
 
 ### 🧠 Deep Learning & Machine Learning
 - **Architectures:** CNNs, LSTMs, Transformers, ResNets
-- **Frameworks:** PyTorch, TensorFlow, Scikit-Learn
+- **Frameworks:** TensorFlow, Keras, Scikit-Learn
 - **Specializations:** Time-Series Modeling, Imbalanced Data Learning, Explainable AI (XAI), Data Sparsity Filtration
 
 ### ☁️ Cloud, MLOps & Software Architecture
