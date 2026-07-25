@@ -154,6 +154,8 @@ Interpretable AI framework for predicting complications in Hematopoietic Cell Tr
 
 📚 Google Scholar: https://scholar.google.com/citations?user=HzfFC8kAAAAJ&hl=en&authuser=3
 
+🆔 ORCID: https://orcid.org/0000-0001-7460-3099
+
 🌐 Website: [Coming Soon]
 
 ---
