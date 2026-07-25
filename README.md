@@ -161,8 +161,12 @@ Interpretable AI framework for predicting complications in Hematopoietic Cell Tr
 ---
 
 > "Building trustworthy AI systems for healthcare, genomics, and scientific discovery."
-> https://img.shields.io/badge/PhD-Candidate-blue
-https://img.shields.io/badge/Healthcare-AI-green
-https://img.shields.io/badge/Computational-Biology-orange
-https://img.shields.io/badge/Deep-Learning-red
-https://img.shields.io/badge/Generative-AI-purple
+![PhD Candidate](https://img.shields.io/badge/PhD-Candidate-blue)
+
+![Healthcare AI](https://img.shields.io/badge/Healthcare-AI-green)
+
+![Computational Biology](https://img.shields.io/badge/Computational-Biology-orange)
+
+![Deep Learning](https://img.shields.io/badge/Deep-Learning-red)
+
+![Generative AI](https://img.shields.io/badge/Generative-AI-purple)
