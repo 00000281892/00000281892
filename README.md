@@ -87,13 +87,13 @@ Deep learning framework designed for architectural noise filtration in sparse lo
 
 ### 📄 Published Journal Articles
 - **DynaBiome:** *Interpretable Unsupervised Learning of Gut Microbiome Dysbiosis using Temporal Deep Models* — Published in **BMC Bioinformatics**.  
-  👉 [Read Publication](https://bmcbioinformatics.biomedcentral.com/) | [Source Code](https://github.com/00000281892/DynaBiome)
+  👉 [Read Publication](https://www.doi.org/10.1186/s12859-026-06400-8) | [Source Code](https://github.com/00000281892/DynaBiome)
 
 ### 📑 Manuscripts Under Review / Revision
 - **MetaResNet:** *Enhancing Microbiome-Based Disease Classification through Colormap Optimization and Imbalanced Learning*.  
-  👉 [View Paper Status / Preprint](https://arxiv.org/) | [Source Code](https://github.com/00000281892/MetaResNet)
+  👉 [View Paper Status / Preprint](https://doi.org/10.64898/2026.03.11.708118) | [Source Code](https://github.com/00000281892/MetaResNet)
 - **DynaBiomeX:** *An Interpretable Dual-Strategy Deep Learning Framework for Sparse Longitudinal Microbiome Data*.  
-  👉 [View Paper Status / Preprint](https://arxiv.org/) | [Source Code](https://github.com/00000281892/DynaBiomeX)
+  👉 [View Paper Status / Preprint](https://doi.org/10.64898/2026.01.28.702442) | [Source Code](https://github.com/00000281892/DynaBiomeX)
 - Conference Manuscripts targeting **ICDM 2026**, **ICoDT 2026**, and **FiT 2026**.
 
 ---
