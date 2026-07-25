@@ -22,7 +22,7 @@ I am an **Applied AI Scientist and Doctoral Researcher at NUST-SEECS**, speciali
 - Computational Biology & Healthcare AI
 - Explainable AI (XAI) & Model Calibration
 
-With over **14 years of experience** bridging software architecture, technical leadership, and machine learning research, I take complex AI solutions from mathematical prototyping directly into production enterprise environments.
+Combining a strong software engineering foundation with doctoral AI research, I focus on building reliable, well-architected machine learning systems for real-world applications
 
 ---
 
