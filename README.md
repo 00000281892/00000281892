@@ -31,9 +31,9 @@ Combining a strong software engineering foundation with doctoral AI research, I 
 - 🎓 **PhD Thesis Submitted** (Deep Learning & Genomics)
 - 🤖 **GenAI Specialization Certified** (6-Course Specialization covering Agents, RAG, & Fine-Tuning)
 - 📊 **514,246+** Longitudinal Observations Analyzed across **1,871** Patient Profiles
-- 📚 **1 Journal Paper Published** (*BMC Bioinformatics*) + **5 Papers Under Review/Submission**
+- 📚 **01 Journal Paper Published** (*BMC Bioinformatics*) + **05 Papers Under Review/Submission**
 - 💻 **14+ Years** Software Engineering, DevOps, & Solutions Architecture Experience
-- 🚀 **5 Public Research & AI Repositories**
+- 🚀 **05 Public Research & AI Repositories**
 
 ---
 
