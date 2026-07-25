@@ -63,7 +63,7 @@ With over **14 years of experience** bridging software architecture, technical l
 Interpretable temporal deep-learning framework for longitudinal microbiome dysbiosis detection using LSTMs and Transformers.
 - **Tech Stack:** Python, TensorFlow, PyTorch, LSTMs, Transformers, Explainable AI
 - 🔗 **GitHub Repository:** [github.com/00000281892/DynaBiome](https://github.com/00000281892/DynaBiome)
-- 📄 **Published Paper:** [Read Article on BMC Bioinformatics](https://bmcbioinformatics.biomedcentral.com/)
+- 📄 **Published Paper:** [Read Article on BMC Bioinformatics](https://www.doi.org/10.1186/s12859-026-06400-8)
 
 ---
 
