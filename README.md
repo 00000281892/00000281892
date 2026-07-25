@@ -7,7 +7,7 @@
 ![](https://img.shields.io/badge/Computational-Biology-orange)
 ![](https://img.shields.io/badge/Deep-Learning-red)
 ![](https://img.shields.io/badge/Generative-AI-purple)
-https://img.shields.io/badge/LLMOps-In%20Progress-brightgreen
+![](https://img.shields.io/badge/LLMOps-In%20Progress-brightgreen)
 
 > Building trustworthy AI systems for healthcare, genomics, and scientific discovery.
 
