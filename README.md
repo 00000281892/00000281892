@@ -79,7 +79,7 @@ Novel CNN architecture for disease classification using optimized colormap repre
 Deep learning framework designed for architectural noise filtration in sparse longitudinal datasets.
 - **Tech Stack:** Python, PyTorch, Temporal Architectures, Noise Reduction
 - 🔗 **GitHub Repository:** [github.com/00000281892/DynaBiomeX](https://github.com/00000281892/DynaBiomeX)
-- 📑 **Manuscript/Preprint:** [View Preprint / Document](https://arxiv.org/)
+- 📑 **Manuscript/Preprint:** [View Preprint / Document](https://doi.org/10.64898/2026.01.28.702442)
 
 ---
 
