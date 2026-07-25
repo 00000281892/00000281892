@@ -152,7 +152,7 @@ Interpretable AI framework for predicting complications in Hematopoietic Cell Tr
 
 📧 Email: theawaisqureshi@gmail.com
 
-📚 Google Scholar: [Add Link]
+📚 Google Scholar: https://scholar.google.com/citations?user=HzfFC8kAAAAJ&hl=en&authuser=3
 
 🌐 Website: [Coming Soon]
 
