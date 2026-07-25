@@ -117,13 +117,15 @@ Deep learning framework designed for architectural noise filtration in sparse lo
 
 ---
 
-# Connect With Me
+## 📬 Let's Connect
 
-💼 **LinkedIn:** [Awais Qureshi](https://linkedin.com/in/awaisqureshi-97150633)  
-📚 **Google Scholar:** [Citations Profile](https://scholar.google.com/citations?user=HzfFC8kAAAAJ)  
-🆔 **ORCID:** [0000-0001-7460-3099](https://orcid.org/0000-0001-7460-3099)  
-📧 **Email:** theawaisqureshi@gmail.com  
-🌐 **Portfolio/Website:** [00000281892.github.io](https://00000281892.github.io/)
+| Platform | Link / Handle |
+| :--- | :--- |
+| **LinkedIn** | [linkedin.com/in/awaisqureshi-97150633](https://linkedin.com/in/awaisqureshi-97150633) |
+| **Google Scholar** | [Scholar Profile](https://scholar.google.com/citations?user=HzfFC8kAAAAJ) |
+| **ORCID** | [0000-0001-7460-3099](https://orcid.org/0000-0001-7460-3099) |
+| **Email** | [theawaisqureshi@gmail.com](mailto:theawaisqureshi@gmail.com) |
+| **Portfolio** | [00000281892.github.io](https://00000281892.github.io/) |
 
 ---
 
