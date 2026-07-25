@@ -15,7 +15,7 @@
 
 ## About Me
 
-I am a **PhD Candidate in Information Technology at NUST-SEECS**, specializing in:
+I am a **Doctoral Researcher in Information Technology at NUST-SEECS**, specializing in:
 
 - Deep Learning
 - Computational Biology
