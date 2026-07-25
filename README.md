@@ -1,4 +1,4 @@
-# Hi, I'm Awais Qureshi 👋
+# Awais Qureshi 👋
 
 ### Applied AI Scientist | Healthcare AI | Computational Biology | PhD Candidate
 
