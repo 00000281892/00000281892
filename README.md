@@ -1,17 +1,47 @@
-![PhD Candidate](https://img.shields.io/badge/PhD-Candidate-blue)|![Healthcare AI](https://img.shields.io/badge/Healthcare-AI-green)|![Computational Biology]|(https://img.shields.io/badge/Computational-Biology-orange)
-
-![Deep Learning](https://img.shields.io/badge/Deep-Learning-red)
-
-![Generative AI](https://img.shields.io/badge/Generative-AI-purple)
 # Hi, I'm Awais Qureshi 👋
 
-## Applied AI Scientist | Computational Biology | Healthcare AI | PhD Candidate
+### Applied AI Scientist | Healthcare AI | Computational Biology | PhD Candidate
 
-I am a PhD Candidate in Information Technology at NUST-SEECS, specializing in Deep Learning, Longitudinal Microbiome Analysis, Explainable AI, and Healthcare AI.
+![](https://img.shields.io/badge/PhD-Candidate-blue)
+![](https://img.shields.io/badge/Healthcare-AI-green)
+![](https://img.shields.io/badge/Computational-Biology-orange)
+![](https://img.shields.io/badge/Deep-Learning-red)
+![](https://img.shields.io/badge/Generative-AI-purple)
+https://img.shields.io/badge/LLMOps-In%20Progress-brightgreen
 
-With 14+ years of experience spanning Software Engineering, Technical Leadership, Machine Learning, and AI Research, I work at the intersection of Artificial Intelligence and Computational Biology.
+> Building trustworthy AI systems for healthcare, genomics, and scientific discovery.
 
-My research focuses on developing interpretable deep learning frameworks for microbiome analysis, dysbiosis prediction, and healthcare decision support systems.
+---
+
+## About Me
+
+I am a **PhD Candidate in Information Technology at NUST-SEECS**, specializing in:
+
+- Deep Learning
+- Computational Biology
+- Longitudinal Microbiome Analysis
+- Explainable AI (XAI)
+- Healthcare AI
+- Generative AI
+
+With over **14 years of experience** in Software Engineering, Technical Leadership, Artificial Intelligence, and Research, I work at the intersection of AI, Healthcare, and Genomics.
+
+My mission is to develop interpretable and trustworthy AI systems that transform microbiome data into actionable healthcare insights.
+
+---
+
+## Research Highlights
+
+- 🎓 PhD Candidate (AI & Genomics)
+- 🏥 Healthcare AI Researcher
+- 🧬 Computational Biology Specialist
+- 📊 514,246+ Longitudinal Microbiome Observations Analyzed
+- 👨‍⚕️ 1,871 Patients Modeled
+- 🦠 412 Microbial Genera Studied
+- 📚 1 Journal Paper Published
+- 📝 5 Additional Papers Under Review / Submission
+- 💻 14+ Years of Software Engineering Experience
+- 🚀 5 Public Research Repositories
 
 ---
 
@@ -20,99 +50,120 @@ My research focuses on developing interpretable deep learning frameworks for mic
 - Healthcare AI
 - Computational Biology
 - Microbiome Analytics
-- Deep Learning
 - Explainable AI (XAI)
+- Deep Learning
 - Longitudinal Time-Series Modeling
+- Machine Learning
 - Generative AI
 - RAG Systems
 - AI Agents
-- MLOps & LLMOps
+- MLOps
+- LLMOps
 
 ---
 
-## Research Highlights
+# Featured Research Projects
 
-- PhD Candidate (AI & Genomics)
-- 14+ Years of Software Engineering Experience
-- 514,246+ Longitudinal Microbiome Observations Analyzed
-- 1,871 Patients Modeled
-- 412 Microbial Genera Studied
-- 1 Journal Paper Published
-- 5 Additional Papers Under Review / Submission
-- 5 Public Research Repositories
+## 🧬 DynaBiome
 
----
+Interpretable temporal deep-learning framework for longitudinal microbiome dysbiosis detection using LSTMs and Transformers.
 
-## Featured Research Projects
+**Technologies**
 
-### DynaBiome
-Interpretable temporal deep learning framework for longitudinal microbiome dysbiosis detection using LSTMs and Transformers.
+- Python
+- TensorFlow
+- LSTM
+- Transformers
+- Explainable AI
 
-**Technologies:** Python, TensorFlow, Deep Learning, XAI
-
-🔗 Repository: [Add Link]
+🔗 Repository: INSERT_GITHUB_LINK
 
 ---
 
-### DynaBiomeX
+## 🧬 DynaBiomeX
+
 Deep learning framework for architectural noise filtration in sparse longitudinal microbiome datasets.
 
-**Technologies:** TensorFlow, PyTorch, Time-Series AI
+**Technologies**
 
-🔗 Repository: [Add Link]
+- Python
+- TensorFlow
+- PyTorch
+- Deep Learning
 
----
-
-### MetaResNet
-Novel CNN architecture for microbiome-based disease classification using optimized colormap representation.
-
-**Technologies:** CNNs, Computer Vision, Explainable AI
-
-🔗 Repository: [Add Link]
+🔗 Repository: INSERT_GITHUB_LINK
 
 ---
 
-### HCT Dysbiosis Prediction
-Interpretable AI framework for predicting complications in Hematopoietic Cell Transplantation patients.
+## 🧬 MetaResNet
 
-**Technologies:** Deep Learning, Healthcare AI, Predictive Analytics
+Novel CNN architecture for microbiome-based disease classification using optimized colormap representations of sparse metagenomic datasets.
 
-🔗 Repository: [Add Link]
+**Technologies**
+
+- CNN
+- Computer Vision
+- TensorFlow
+- Explainable AI
+
+🔗 Repository: INSERT_GITHUB_LINK
 
 ---
 
-## Technical Skills
+## 🏥 HCT Dysbiosis Prediction
 
-### Artificial Intelligence
+Interpretable AI framework for predicting complications in Hematopoietic Cell Transplantation (HCT) patients.
+
+**Technologies**
 
 - Deep Learning
+- Healthcare AI
+- Predictive Analytics
+
+🔗 Repository: INSERT_GITHUB_LINK
+
+---
+
+# Technical Skills
+
+## Artificial Intelligence
+
 - Machine Learning
+- Deep Learning
 - CNNs
 - LSTMs
 - Transformers
 - Explainable AI
 - Time-Series Modeling
+- Predictive Analytics
 
-### Generative AI
+## Generative AI
 
-- RAG
+- Retrieval-Augmented Generation (RAG)
 - LangChain
 - CrewAI
 - AutoGen
 - Amazon Bedrock
 - Hugging Face
 - Prompt Engineering
+- AI Agents
 
-### MLOps & LLMOps
+## Cloud & DevOps
 
+- AWS
+- Google Cloud
 - Docker
 - GitHub Actions
 - CI/CD
-- Model Deployment
-- AWS
-- Google Cloud
+- Linux
 
-### Programming
+## Big Data
+
+- Apache Spark
+- Hadoop
+- MapReduce
+
+## Programming
 
 - Python
 - C#
@@ -121,48 +172,97 @@ Interpretable AI framework for predicting complications in Hematopoietic Cell Tr
 
 ---
 
-## Publications
+# Publications
 
-### Published
+## Published
 
-- DynaBiome: Interpretable Unsupervised Learning of Gut Microbiome Dysbiosis using Temporal Deep Models
+### DynaBiome
+
+Interpretable Unsupervised Learning of Gut Microbiome Dysbiosis using Temporal Deep Models.
+
+---
+
+## Journal Papers Under Review
+
+### MetaResNet
+
+Enhancing Microbiome-Based Disease Classification through Colormap Optimization and Imbalanced Learning.
+
+### DynaBiomeX
+
+An Interpretable Dual-Strategy Deep Learning Framework for Sparse Longitudinal Microbiome Data.
+
+---
+
+## Conference Papers
 
 ### Under Review
 
-- MetaResNet: Enhancing Microbiome-Based Disease Classification through Colormap Optimization and Imbalanced Learning
-- DynaBiomeX: Dual-Strategy Deep Learning Framework for Sparse Longitudinal Microbiome Data
+- ICDM 2026
+- ICoDT 2026
 
-### Conference Papers
+### In Preparation
 
-- ICDM 2026 (Under Review)
-- ICoDT 2026 (Under Review)
-- FiT 2026 (In Preparation)
+- FiT 2026
 
 ---
 
-## Current Focus
+# Current Focus
 
 - Completing PhD Thesis
 - Publishing Remaining Research Papers
-- Building Healthcare AI Applications
 - Learning LLMOps
-- Developing Microbiome AI Copilot
-- Exploring Applied Scientist Opportunities
+- Developing Healthcare AI Solutions
+- Building Microbiome AI Copilot
+- Exploring International Applied Scientist Opportunities
+- Bridging AI Research and Real-World Healthcare Applications
 
 ---
 
-## Connect With Me
+# Certifications
 
-💼 LinkedIn: https://linkedin.com/in/awaisqureshi-97150633
+✅ TensorFlow for AI & Machine Learning
 
-📧 Email: theawaisqureshi@gmail.com
+✅ Convolutional Neural Networks
 
-📚 Google Scholar: https://scholar.google.com/citations?user=HzfFC8kAAAAJ&hl=en&authuser=3
+✅ Big Data & Hadoop
 
-🆔 ORCID: https://orcid.org/0000-0001-7460-3099
+✅ AWS Generative AI & AI Agents with Amazon Bedrock
 
-🌐 Website: [Coming Soon]
+✅ Building GenAI Applications and Agents
+
+✅ LLMOps (In Progress)
 
 ---
 
-> "Building trustworthy AI systems for healthcare, genomics, and scientific discovery."
+# Connect With Me
+
+💼 LinkedIn
+
+https://linkedin.com/in/awaisqureshi-97150633
+
+📚 Google Scholar
+
+https://scholar.google.com/citations?user=HzfFC8kAAAAJ
+
+🆔 ORCID
+
+https://orcid.org/0000-0001-7460-3099
+
+📧 Email
+
+theawaisqureshi@gmail.com
+
+🌐 Website
+
+Coming Soon
+
+---
+
+# Career Objective
+
+To contribute as an **Applied AI Scientist**, **Healthcare AI Researcher**, or **AI Research Engineer**, leveraging deep expertise in Machine Learning, Computational Biology, Generative AI, and Software Engineering to solve impactful healthcare and scientific challenges.
+
+---
+
+⭐ If you find my research interesting, feel free to connect, collaborate, or discuss opportunities in AI, Healthcare, Genomics, and Computational Biology.
