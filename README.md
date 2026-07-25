@@ -234,7 +234,7 @@ https://orcid.org/0000-0001-7460-3099
 theawaisqureshi@gmail.com
 
 🌐 Website:
-Coming Soon
+https://00000281892.github.io/
 
 ---
 
