@@ -112,7 +112,6 @@ Deep learning framework designed for architectural noise filtration in sparse lo
 # Current Focus
 
 - 🎯 Seeking opportunities as an **Applied AI Scientist**, **Lead ML Engineer**, or **AI Solutions Architect**
-- 🚀 Building an autonomous Literature Review & Synthesis Engine POC
 - 🔬 Publishing final PhD research chapters and open-source models
 
 ---
